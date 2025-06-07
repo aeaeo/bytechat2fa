@@ -38,9 +38,6 @@
 |----------------|-------------|
 | `byte_chat_sharp_scram_plus_fr(opt)/Byte_Chat_Sharp_Server/../Server.cs`    | Server party logic |
 | `byte_chat_sharp_scram_plus_fr(opt)/Byte_Chat_Sharp_Server/../Client.cs`    | Client party logic |
-| `routes/note.js` | REST API маршрути для нотаток |
-| `models/User.js` | Схема користувача для MongoDB |
-| `components/NoteForm.vue` | Форма створення/редагування нотатки |
 
 ---
 
